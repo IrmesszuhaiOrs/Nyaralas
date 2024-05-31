@@ -1,0 +1,9 @@
+body {
+    background-image: url(https://turizmus.com/html/data/cikk/118/646/cikk_1180646/gorogorszag1_123RF.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    z-index: -1;
+    height: 100%;
+}
